@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="pp" value="private val $NAME$ = Paint(Paint.ANTI_ALIAS_FLAG)$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
