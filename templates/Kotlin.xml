@@ -5,7 +5,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="view" value="(context: Context, attributes: AttributeSet) : View(context, attributes)" toReformat="false" toShortenFQNames="true">
+  <template name="view" value="(context: Context, attributes: AttributeSet) : View(context, attributes)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
