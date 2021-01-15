@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="486" />
+    <option name="newTranslationDialogY" value="325" />
+    <histories>
+      <item value="Get callback information for a given handle." />
+      <item value="callback" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1610694913724" />
+  </component>
+</application>
