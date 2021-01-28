@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="486" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="glue" />
+      <item value="are now attached to an Activity." />
+      <item value="custom" />
       <item value="Fall back to the installation path if no bundle path was specified." />
       <item value="look into moving FPS reporting to a plugin" />
       <item value="cleartext traffic is allowed." />
@@ -11,12 +14,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610694913724" />
+    <option name="lastTrimTime" value="1611804835355" />
   </component>
 </application>
