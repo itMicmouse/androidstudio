@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="486" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="Specs satisfying" />
       <item value="glue" />
       <item value="are now attached to an Activity." />
       <item value="custom" />
@@ -20,6 +21,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611804835355" />
+    <option name="lastTrimTime" value="1624465177909" />
   </component>
 </application>
