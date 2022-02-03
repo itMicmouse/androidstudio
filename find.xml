@@ -9,8 +9,9 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.dart</mask>
+    <mask>*.kt</mask>
+    <mask>*.gr</mask>
   </component>
 </application>
