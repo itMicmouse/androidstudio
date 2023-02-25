@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:mine RequestManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine RequestManager" />
+        <option value="package:mine " />
         <option value="level:error " />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="tag:DOWN" />
         <option value="tag:高度计算" />
         <option value="package:高度计算" />
