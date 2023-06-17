@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DistanceManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine DistanceManager" />
         <option value="package:mine 距离车最近的点" />
         <option value="package:mine isNext" />
         <option value="package:mine  System.out" />
         <option value="package:mine arouter" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag=:App " />
         <option value="package:mine App" />
