@@ -1,21 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 航向角" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine 航向角" />
+        <option value="level:error " />
         <option value="package:mine" />
+        <option value="package:mine isNext" />
+        <option value="package:mine 航向角" />
         <option value="package:mine DistanceManager" />
         <option value="package:mine " />
         <option value="package:mine 距离车最近的点" />
-        <option value="package:mine isNext" />
         <option value="package:mine  System.out" />
         <option value="package:mine arouter" />
         <option value="package:mine tag=:App " />
         <option value="package:mine App" />
         <option value="package:mine level:error " />
         <option value="package:mine RequestManager" />
-        <option value="level:error " />
         <option value="tag:DOWN" />
         <option value="tag:高度计算" />
         <option value="package:高度计算" />
