@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine zhiview" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine zhiview" />
         <option value="package:mine" />
         <option value="level:error " />
         <option value="package:mine isNext" />
         <option value="package:mine 航向角" />
         <option value="package:mine DistanceManager" />
-        <option value="package:mine " />
         <option value="package:mine 距离车最近的点" />
         <option value="package:mine  System.out" />
         <option value="package:mine arouter" />
