@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine BaseOchTaxiPassengerFragment" />
+    <option name="mostRecentlyUsed" value="package:mine StartAutopilotView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine StartAutopilotView" />
         <option value="package:mine BaseOchTaxiPassengerFragment" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine RequestManager" />
         <option value="tag:DOWN" />
         <option value="tag:高度计算" />
-        <option value="package:高度计算" />
       </list>
     </option>
   </component>
