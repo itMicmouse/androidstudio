@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine StartAutopilotView" />
+    <option name="mostRecentlyUsed" value="package:mine BigFrameAnimatorContainer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BigFrameAnimatorContainer" />
+        <option value="package:mine" />
         <option value="package:mine StartAutopilotView" />
         <option value="package:mine BaseOchTaxiPassengerFragment" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine TaxiPassengerBaseFragment" />
-        <option value="package:mine BigFrameAnimatorContainer" />
-        <option value="package:mine" />
         <option value="package:mine zhiview" />
         <option value="level:error " />
         <option value="package:mine isNext" />
