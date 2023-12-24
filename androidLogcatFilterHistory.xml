@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ZhiView" />
+    <option name="mostRecentlyUsed" value="package:mine TaxiPassengerBaseFragment" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ZhiView" />
         <option value="package:mine TaxiPassengerBaseFragment" />
+        <option value="package:mine ZhiView" />
         <option value="package:mine BigFrameAnimatorContainer" />
         <option value="package:mine" />
         <option value="package:mine StartAutopilotView" />
